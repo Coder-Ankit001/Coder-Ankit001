@@ -1,19 +1,22 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ankit Chaudhary</h1>
+<h3 align="center">A passionate frontend/backend developer from India</h3>
 
-<!--
-**Coder-Ankit001/Coder-Ankit001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Django/Wagtail**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning ****Wagtail internals**, testing practices, and OSS workflows**
 
-# 💫 About Me:
-- 🔭 Currently working on backend development using **Django** and **Wagtail**<br>- 👯 Open to collaborating on **open-source projects**, especially Django/Wagtail<br>- 🤝 Looking for guidance on contributing to **large open-source codebases**<br>- 🌱 Currently learning **Wagtail internals**, testing practices, and OSS workflows<br>- 💬 Ask me about **Django**, **Wagtail CMS**, and backend development<br>- ⚡ Fun fact: I enjoy reading framework source code to understand design decisions<br>
+- 👯 I’m looking to collaborate on ****open-source projects**, especially Django/Wagtail**
 
+- 🤝 I’m looking for help with ****large open-source codebases****
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Coder-Ankit001&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Coder-Ankit001&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Ankit001&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 💬 Ask me about ****Django**, **Wagtail CMS**, and backend development**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- ⚡ Fun fact **I enjoy reading framework source code to understand design decisions**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-chaudhary-a3a36b374/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-chaudhary-a3a36b374/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
