@@ -55,7 +55,7 @@ class CurrentFocus:
         self.role = "Full Stack Developer"
         self.focus = ["Django/Wagtail Development", "Open Source Contribution"]
         self.learning = ["Wagtail Internals", "Testing Best Practices", "OSS Workflows"]
-        self.goals_2025 = [
+        self.goals_2026 = [
             "Contribute to major OSS projects",
             "Master Django performance optimization",
             "Build scalable CMS solutions"
