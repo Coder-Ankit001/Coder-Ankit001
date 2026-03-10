@@ -15,8 +15,6 @@ I'm a passionate **Full Stack Developer** specializing in building robust backen
 - 👯 Open to collaborate on **Django/Wagtail open-source projects**
 - 🤝 Seeking guidance on **navigating large open-source codebases**
 - 💬 Ask me about **Django, Wagtail CMS, and backend architecture**
-- ⚡ Fun fact: **I read framework source code for fun to understand design decisions**
-
 ---
 
 ## 🛠️ Tech Stack
@@ -74,19 +72,6 @@ class CurrentFocus:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-chaudhary-a3a36b374/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/32078662/ankit-chaudhary)
 </div>
-
----
-
-## 💡 Open Source Contribution Journey
-
-I'm actively learning to navigate and contribute to open-source projects. Currently exploring:
-- **Django** - Contributing to documentation and bug fixes
-- **Wagtail CMS** - Understanding the architecture and community practices
-- Building confidence in **code reviews** and **collaborative development**
-
-*If you're working on Django/Wagtail projects and need contributors, I'd love to help!*
-
----
 
 <div align="center">
   
