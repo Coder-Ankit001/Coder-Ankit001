@@ -11,9 +11,6 @@
   <a href="https://github.com/Coder-Ankit001">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/u/u56WzQfrVP/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" />
-  </a>
   <img src="https://komarev.com/ghpvc/?username=Coder-Ankit001&color=6366f1&style=flat-square" />
 </div>
 
