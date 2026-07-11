@@ -104,10 +104,9 @@ Second year IT student at **Delhi Technological University**. I build full stack
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Coder-Ankit001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coder-Ankit001&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Coder-Ankit001&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coder-Ankit001&theme=tokyonight" height="160" />
 </div>
-
 ---
 
 <div align="center">
