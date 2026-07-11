@@ -77,6 +77,15 @@ Second year IT student at **Delhi Technological University**. I build full stack
 
 ## Projects
 
+**[Personal Cloud](https://github.com/Coder-Ankit001/Personal_Cloud_Frontend)** — Self-hosted cloud storage platform
+
+- React + Vite SPA with full file/folder CRUD and dynamic breadcrumb navigation
+- JWT auth via HTTP-only cookies, auth-guarded routing, zero localStorage exposure
+- Optimized recursive CTE queries for efficient nested folder tree traversal and path resolution
+- Streaming uploads for 18+ file types, content-type filtering, FSM-driven file move logic
+- Supabase S3-compatible storage, layered AuthContext → FileSystemContext state architecture
+
+
 **[Arcane Hub](https://github.com/Coder-Ankit001/Arcanhe_Hub_Frontend)** — Full stack game discovery platform
 
 - Live game search via RAWG API, multi-page SPA with React Router
